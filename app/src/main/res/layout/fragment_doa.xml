@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContenRuqyah.BtnDoaFragment"
+    android:orientation="vertical"
+    android:background="@drawable/style2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/stayle">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_doa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="fill"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/styleme"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text="Sejarah Ruqyah" />
+
+            <Button
+                android:id="@+id/btn_doa2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="fill"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/styleme"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text="Pengertian Ruqyah" />
+
+            <Button
+                android:id="@+id/btn_doa3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="fill"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/styleme"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text="Hukum Ruqyah" />
+
+            <Button
+                android:id="@+id/btn_doa4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="fill"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/styleme"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text="Adab Ruqyah" />
+
+            <Button
+                android:id="@+id/btn_doa5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="fill"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/styleme"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text="Kaidah Berobat dalam islam" />
+        <Button
+            android:id="@+id/btn_doa6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/styleme"
+            android:padding="@dimen/activity_vertical_margin"
+            android:text="Asal usul penyakit manusia "/>
+        <Button
+            android:id="@+id/btn_doa7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/styleme"
+            android:padding="@dimen/activity_vertical_margin"
+            android:text="Web Ruqyah" />
+
+        <Button
+            android:id="@+id/btn_doa8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/styleme"
+            android:padding="@dimen/activity_vertical_margin"
+            android:text="Asal Usul Penyekit Manusia" />
+
+        <Button
+            android:id="@+id/btn_doa9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/styleme"
+            android:padding="@dimen/activity_vertical_margin"
+            android:text="Asal Usul Penyekit Manusia" />
+
+        <Button
+            android:id="@+id/btn_doa10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/styleme"
+            android:padding="@dimen/activity_vertical_margin"
+            android:text="Asal Usul Penyekit Manusia" />
+
+        <Button
+            android:id="@+id/btn_doa11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/styleme"
+            android:padding="@dimen/activity_vertical_margin"
+            android:text="Asal Usul Penyekit Manusia" />
+
+        <Button
+            android:id="@+id/btn_doa12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/styleme"
+            android:layout_marginBottom="40dp"
+            android:padding="@dimen/activity_vertical_margin"
+            android:text="Asal Usul Penyekit Manusia" />
+
+
+
+    </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
